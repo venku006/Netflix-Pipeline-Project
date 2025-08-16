@@ -23,7 +23,7 @@
           <input type="password" required />
           <label>Password</label>
         </div>
-        <button type="submit">WELCOME TO NETFLIX V-6.0</button>
+        <button type="submit">WELCOME TO NETFLIX V-6.0 its a first project</button>
         <div class="form-help">
           <div class="remember-me">
             <input type="checkbox" id="remember-me" />
